@@ -10,5 +10,5 @@ spring:
           password: nicepro666
 server:
   port: 12581
-msg: find me!
+
 
